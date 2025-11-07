@@ -2,4 +2,6 @@
 
 Test code for DHT11
 
-`#define DHTPIN  2` 
+## Interface:
+
+GPIO2 - WS2812
